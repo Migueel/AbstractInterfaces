@@ -6,8 +6,5 @@ abstract class Coche2 implements vehiculo2{
 	abstract int tieneRuedas();
 	abstract String girar();
 	
-		super.girar();
-		super.tieneRuedas();
-
 	}
 }
