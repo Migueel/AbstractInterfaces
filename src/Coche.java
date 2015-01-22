@@ -8,6 +8,5 @@ abstract class Coche extends vehiculo{
 	abstract int tieneRuedas();
 	abstract String girar();
 	
-		super.tieneRuedas();	
 	}
 }
